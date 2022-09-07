@@ -1,0 +1,13 @@
+:root{
+    --title-fonts:'Frank Ruhl Libre', serif;
+    --principal-fonts:'Ubuntu', sans-serif;
+    --background-color: rgb( 243, 234, 227);
+    --fonts-color:rgb(29, 33, 39);
+    --primary-color:rgb(61, 129, 104);
+    --secondary-color:rgb(255, 255, 255);
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
